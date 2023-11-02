@@ -7,7 +7,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/tuanloc288/learning-laravel.git
+git clone https://github.com/tuanloc288/laravel-api.git
 ```
 
 ### Database set up
